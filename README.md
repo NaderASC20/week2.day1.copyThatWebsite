@@ -27,6 +27,7 @@ If your website or wireframe is not approved, make any necessary revisions and t
     - If you need placeholder content, feel free to use:
       - Placeholder Text: [Lorum Ipsum](http://www.lipsum.com/)
       - Placeholder Images: [Unsplash](https://picsum.photos/)
+5. Your website should be properly hosted on GitHub
 
 ## Extra Credit
 - You may notice the website you chose used CSS that includes `@media` queries. Think of it as conditional CSS styling. It’s used primarily for detecting when the window width passes a certain threshold (like for mobile devices). You can see what changes occur by shrinking the width of the window. Try including an `@media` query in your project’s CSS.
